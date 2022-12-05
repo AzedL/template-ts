@@ -1,2 +1,3 @@
-# template-ts
-template for ts
+# {{name}}
+
+{{description}}
